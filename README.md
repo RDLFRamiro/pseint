@@ -1,0 +1,2 @@
+# pseint
+ejercicio de pseint
